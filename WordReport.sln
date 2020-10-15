@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordReport", "WordReport\WordReport.csproj", "{BE1A6D6D-88EA-41E7-9F50-605BD114834E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1A6D6D-88EA-41E7-9F50-605BD114834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1A6D6D-88EA-41E7-9F50-605BD114834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1A6D6D-88EA-41E7-9F50-605BD114834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1A6D6D-88EA-41E7-9F50-605BD114834E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19498BBE-513B-4546-BCAC-36D7F2331217}
+	EndGlobalSection
+EndGlobal

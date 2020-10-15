@@ -1,0 +1,11 @@
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.csprojAssemblyReference.cache
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.csproj.ResolveComReference.cache
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.Form1.resources
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.csproj.GenerateResource.cache
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.csproj.CoreCompileInputs.cache
+C:\Users\twimy\source\repos\WordReport\WordReport\bin\Debug\WordReport.exe.config
+C:\Users\twimy\source\repos\WordReport\WordReport\bin\Debug\WordReport.exe
+C:\Users\twimy\source\repos\WordReport\WordReport\bin\Debug\WordReport.pdb
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.exe
+C:\Users\twimy\source\repos\WordReport\WordReport\obj\Debug\WordReport.pdb
