@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WordReport"
   ],
-  "SelectedNode": "\\WordReport.sln",
+  "SelectedNode": "\\WordReport\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

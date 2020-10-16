@@ -38,7 +38,8 @@ namespace WordReport
             Microsoft.Office.Interop.Word.Application app = new Microsoft.Office.Interop.Word.Application();
 
             //dokumenti excel per numrimin e reshtave...
-            string exceldoc = "C:\\Users\\twimy\\OneDrive\\Desktop\\FINKI\\iSolve\\C# Word templates\\Form.xlsx";
+            //string exceldoc = "C:\\Users\\twimy\\OneDrive\\Desktop\\FINKI\\iSolve\\C# Word templates\\Form.xlsx";
+            string exceldoc = textBox1.Text;
             Microsoft.Office.Interop.Excel.Application excel = new Microsoft.Office.Interop.Excel.Application();
             Microsoft.Office.Interop.Excel.Workbook sheet = excel.Workbooks.Open(exceldoc);
             Microsoft.Office.Interop.Excel.Worksheet x = excel.ActiveSheet as Microsoft.Office.Interop.Excel.Worksheet;
