@@ -73,7 +73,7 @@ namespace WordReport
                 app.Selection.Find.Execute("<age>", missing, missing, missing, missing, missing, missing, missing, missing, tmp[3],2);
 
 
-                object SaveAsFile = (object) textBox3.Text + tmp[0] + ".doc";
+                object SaveAsFile = (object) textBox3.Text + "\\Report" + tmp[0] + ".doc";
                 doc.SaveAs2(SaveAsFile, missing, missing, missing);
                 this.progressBar1.Value += (100 / countRecords);
             }
